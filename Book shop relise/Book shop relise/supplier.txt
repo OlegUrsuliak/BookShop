@@ -1,0 +1,18 @@
+Id: 0
+Name Surname Fathername: 0 0 0
+Age: 0
+Phone number: 0
+Place of bace: 0 0 0
+
+Id: 2
+Name Surname Fathername: 2 2 2
+Age: 2
+Phone number: 22222
+Place of bace: 2 2 2
+
+Id: 8
+Name Surname Fathername: 8 8 8
+Age: 8
+Phone number: 8
+Place of bace: 8 8 8
+

@@ -1,0 +1,22 @@
+
+Id: 7
+Title: Tut nazva 7
+Author: uthor 7
+Genre: rosto 7
+Publisher:  7 7
+Binding material: 
+Price: 7
+Number of pages: 7
+Description: 7 7 7 7
+
+
+Id: 9
+Title: 9
+Author: 
+Genre: 
+Publisher: 
+Binding material: 
+Price: 9
+Number of pages: 9
+Description: 9 9 9
+

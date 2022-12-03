@@ -1,0 +1,24 @@
+Id: 0
+Name Surname Fathername: 1 1 1
+Age: 0
+Favorite genre: 0 0
+Phone number: 00000
+Mail: 0
+Money: 0
+
+Id: 1
+Name Surname Fathername: 1 1 1
+Age: 1
+Favorite genre: 1
+Phone number: 1111
+Mail: 1
+Money: 1
+
+Id: 2
+Name Surname Fathername: 2 2 2
+Age: 2
+Favorite genre: 2
+Phone number: 222
+Mail: 2
+Money: 2
+
